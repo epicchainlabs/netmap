@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/nspcc-dev/hrw"
+	"github.com/epicchainlabs/netmap/hrw"
 	"github.com/pkg/errors"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/nspcc-dev/netmap"
+	"github.com/epicchainlabs/netmap/netmap"
 	"github.com/pkg/errors"
 	"gopkg.in/abiosoft/ishell.v2"
 )

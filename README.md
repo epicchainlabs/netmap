@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/nspcc-dev/netmap.svg?branch=master)](https://travis-ci.org/nspcc-dev/netmap)
 [![codecov](https://codecov.io/gh/nspcc-dev/netmap/badge.svg)](https://codecov.io/gh/nspcc-dev/netmap)
-[![Report](https://goreportcard.com/badge/github.com/nspcc-dev/netmap)](https://goreportcard.com/report/github.com/nspcc-dev/netmap)
-[![GitHub release](https://img.shields.io/github/release/nspcc-dev/netmap.svg)](https://github.com/nspcc-dev/netmap)
+[![Report](https://goreportcard.com/badge/github.com/epicchainlabs/netmap/netmap)](https://goreportcard.com/report/github.com/epicchainlabs/netmap/netmap)
+[![GitHub release](https://img.shields.io/github/release/nspcc-dev/netmap.svg)](https://github.com/epicchainlabs/netmap/netmap)
 
 ## Demo
 
